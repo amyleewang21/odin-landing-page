@@ -13,11 +13,13 @@ li{
     
 }
 
-.header{
+header{
     display:flex;
     justify-content: space-between;
     background:rgb(32, 55, 72);
     color:white;
+    align-items:center;
+
    
 }
 
@@ -29,4 +31,6 @@ li{
     display:flex;
     gap:15px;
     margin-right:100px;
+ 
 }
+
