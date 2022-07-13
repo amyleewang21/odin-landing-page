@@ -1,4 +1,4 @@
-body{
+body,p,h1{
     margin:0px;
 }
 
@@ -34,3 +34,21 @@ header{
  
 }
 
+.intro{
+    display:flex;
+    /* justify-content: space-between; */
+    /* align-items:center; */
+    background:rgb(32, 55, 72);
+
+
+}
+.intro-left{
+    margin-top:0px;
+    margin-left:100px;
+    
+}
+
+.intro-right{
+    margin-right:100px;
+
+}
